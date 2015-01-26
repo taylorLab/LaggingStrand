@@ -25,7 +25,7 @@ riboReadEndBedToGidChrM.pl.
 
 Yeast polymorphism, between-species relative substitution rate, genomic
 masking and transcript annotation are available as a pre-processed table
-(doi:).
+(doi:dx.doi.org/10.7488/ds/204).
 
 GID
 ---
